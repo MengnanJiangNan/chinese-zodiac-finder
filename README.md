@@ -1,6 +1,24 @@
+---
+title: Chinese Zodiac Finder
+emoji: 🐲
+colorFrom: blue
+colorTo: red
+sdk: gradio
+sdk_version: 4.19.2
+app_file: app.py
+pinned: false
+---
+
 # Chinese Zodiac Finder 🐲
 
+[![Hugging Face Spaces](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue)](https://huggingface.co/spaces/mengnanjiang/zodiac)
+
 A web app that reveals your zodiac sign, personality traits, and fortune details based on your birth date. Features Gregorian-Lunar calendar conversion, detailed zodiac insights, and a modern UI. Built with Gradio and Python.
+
+## 🌟 Demo
+
+Try it out on Hugging Face Spaces: [Live Demo](https://huggingface.co/spaces/mengnanjiang/zodiac)
+
 
 ## 🌟 Features
 
