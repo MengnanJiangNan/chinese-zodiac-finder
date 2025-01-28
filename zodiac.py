@@ -108,7 +108,7 @@ with gr.Blocks() as demo:
             """)
             date_input = gr.Textbox(
                 label="Enter your birth date (Format: DD.MM.YYYY)", 
-                placeholder="e.g., 17.06.1994"
+                placeholder="e.g., 01.09.2001"
             )
             submit_button = gr.Button("Find My Zodiac Sign")
     
