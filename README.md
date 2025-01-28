@@ -63,7 +63,7 @@ python zodiac.py
 
 3. Open your web browser and go to the URL shown in the terminal (usually http://127.0.0.1:7860).
 
-4. Enter your birth date in DD.MM.YYYY format (e.g., 17.06.1994) to discover your Chinese zodiac sign and related information.
+4. Enter your birth date in DD.MM.YYYY format (e.g., 01.09.2001) to discover your Chinese zodiac sign and related information.
 
 ## 📝 Data Source
 
