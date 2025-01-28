@@ -11,7 +11,7 @@ class ZodiacInfo:
 
     def load_zodiac_data(self):
         """Load zodiac information from CSV file"""
-        with open('data/zodiac_info.csv', 'r', encoding='utf-8') as f:
+        with open('zodiac_info.csv', 'r', encoding='utf-8') as f:
             reader = csv.DictReader(f)
             for row in reader:
                 self.zodiac_data[row['German']] = row
