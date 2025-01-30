@@ -48,7 +48,7 @@ pip install -r requirements.txt
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/chinese-zodiac-finder.git
+git clone https://github.com/MengnanJiangNan/chinese-zodiac-finder.git
 cd chinese-zodiac-finder
 ```
 
